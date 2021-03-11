@@ -1,0 +1,125 @@
+.indexHeader {
+  font-size: 5vw;
+  font-style:italic;
+  text-align: center;
+  padding-right: 6%;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+  padding-top: 0px;
+  border-top: 0px;
+  margin-top:0px;
+}
+.indexSubHeader {
+  font-size: 2.5vw;
+  font-style: italic;
+  text-align: center;
+  color: lightgrey;
+  padding-bottom: 5px;
+  padding-top: 0px
+  border 0px;
+  margin:0px;
+}
+.topnav {
+  background-color: black;
+  overflow: hidden;
+  border-radius: 25px;
+}
+.topnav a {
+  float: left;
+  color: lightgrey;
+  padding: 16px 18px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1vw;
+  background-color: black;
+  overflow: hidden;
+  border-bottom: 0px;
+  margin-bottom: 0px;
+}
+.topnav a.hover {
+  color: lightgrey;
+  background-color: darkgrey;
+}
+.topnav a.active {
+  text-decoration: underline;
+  text-
+}
+h1 {
+  padding-left: 100px;
+}
+.indexdiv1 {
+  padding-top: 1%;
+}
+.line {
+  background-color: black;
+  height: 1px;
+}
+.LinksToPage {
+  text-align: left;
+  text-decoration-color: darkgrey;
+  color: darkgrey;
+  font-style: italic;
+  font-size: 25px;
+}
+.LinksToPage2 {
+  text-align: right;
+  padding-left: 610px;
+  text-decoration-color: darkgrey;
+  color: darkgrey;
+  font-style: italic;
+  font-size: 25px;
+}
+.colorblock {
+  background-color: red;
+  background-size: cover;
+  height: 100px;
+  width: 100px;
+}
+.box1 {
+  text-align: center;
+  background-color: lightgrey;
+  opacity: 90%;
+  height: 300px;
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 250px;
+  float:left;
+  border-radius: 25px;
+}
+.box2 {
+  text-align: center;
+  background-color: lightgrey;
+  opacity: 90%;
+  height: 300px;
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 250px;
+  float: left;
+  border-radius: 25px;
+}
+.box3 {
+  text-align: center;
+  background-color: lightgrey;
+  opacity: 90%;
+  height: 300px;
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 250px;
+  float: left;
+  border-radius: 25px;
+}
+.box4 {
+  text-align: center;
+  background-color: lightgrey;
+  opacity: 90%;
+  height: 300px;
+  width: 200px;
+  margin-left: 150px;
+  margin-top: 250px;
+  float: left;
+  border-radius: 25px;
+}
+h3 {
+  text-decoration: underline;
+}
